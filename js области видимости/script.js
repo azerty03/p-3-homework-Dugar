@@ -66,7 +66,7 @@ const blyudo = [
   ${dish.name.toUpperCase()}
   Состав: ${dish.ingredients.join(', ')}
   Цена: ${dish.saleprice} руб.
-
+  -------------------
   `;
     
     
